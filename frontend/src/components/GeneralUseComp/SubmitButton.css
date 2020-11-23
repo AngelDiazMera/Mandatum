@@ -1,0 +1,172 @@
+.btn {
+    background-color: #456F97; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #618aaf; 
+}
+
+.disabled {
+    background-color: rgb(105, 105, 105);
+    cursor: auto;
+}
+
+.disabled:hover {
+    background-color: rgb(146, 146, 146);
+    
+}
+
+.fullWidth{
+    width:100%;
+}
+
+.right-icon {
+    position: absolute;
+    margin:0;
+    margin-left: auto;
+    font-size: 24px;
+    vertical-align: middle;
+    padding-top: 0;
+    right: 0;
+    height: 63px;
+    width: 64px;
+    background-color: #051E34;
+    border:none;
+    outline:none;
+    transition: 0.3s;
+}
+
+.right-icon:hover{
+    transition: 0.3s;
+    background-color: #263A4E;
+}
+
+.right-icon.top {
+    font-family: "Roboto", sans-serif;
+    color: #768597;
+    border-radius: 0;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    padding-left: 0;
+    padding-right: 20px;
+    padding-bottom: 0;
+    height: 63px;
+    /* Disable text selection highlighting  */
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+}
+
+.right-icon.top:hover {
+    background-color: #d0d4d8;
+}
+
+.logout-icon{
+    font-size: 24px;
+    margin-right: 24px;
+    margin-top: auto;
+}
+
+.no_padding {
+    padding: 0;
+}
+.no_margin {
+    margin: 0;
+}
+
+.width-auto{
+    width: auto;
+}
+
+.consulta{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.btn-blanco {
+    background-color: white;
+    text-align: left;
+    line-height: 20px;
+    color: #555555;
+}
+
+.btn-blanco:hover, .btn-blanco:focus {
+    background-color: rgb(235, 235, 235);
+}
+
+.btn-blanco:disabled{
+    background: white;
+    color: rgb(206, 206, 206);
+}
+
+.margin-top0{
+    margin-top: 0;
+}
+
+.size18{
+    padding-top: 5px;
+    font-size: 18px;
+}
+
+.btn-blanco.padding-top7 {
+    padding-top: 7px;
+}
+
+.input-size {    
+    padding-left: 10px;
+    height: 30px;
+}
+
+.input-size-select {
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 50px;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.left-padding{
+    padding-left: 16px;
+}
+
+.disabled-blanco{
+    color: rgb(206, 206, 206);
+}
+
+.large-text{
+    max-width: 130px;
+    padding-left:20px;
+    margin:0;
+}
+
+@media only screen and (max-width: 445px){
+    .right-icon.top{
+        width: 32px;
+        padding: 0;
+        padding-top: 19.5px;
+    }
+    .logout-icon{
+        margin: 0;
+        right: 15px;
+    }
+}
