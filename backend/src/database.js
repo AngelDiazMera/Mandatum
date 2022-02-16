@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose');
 
-const uri = "mongodb+srv://Atlas_BD:atlas123@cluster0.64uec.gcp.mongodb.net/Credenciales_UPP?retryWrites=true&w=majority";
+const uri = process.env.MONGO_ATLAS_URI;
 
 // mongoose connects to our db
 mongoose.connect(uri, {
