@@ -1,6 +1,15 @@
 # Mandatum
+<div>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffc70f?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-43853d?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-2e2e2e?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="MongoDb" src="https://img.shields.io/badge/MongoDb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Handlebars" src="https://img.shields.io/badge/Handlebars-e3751b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+<img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-2e2e2e?style=for-the-badge&logo=puppeteer&logoColor=white" />
+</div>
 
-Mandatum is a credential generation project built on ReactJS, MongoDB, ExpressJS and NodeJS.
+Credential generation system scoped on customization and massive generation.
 
 ### Features
 - Role management & authentication
@@ -57,7 +66,7 @@ $ npm run dev
 
   Angel Díaz | Antonio Rosas | Rodrigo Cruz | Estefanía Vera | Alexa Ivey
   :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-  [![](https://img.shields.io/badge/AngelDiazMera-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelDiazMera/) | [![](https://img.shields.io/badge/Antonio152-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antonio152/) | [![](https://img.shields.io/badge/rodrigocrz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocrz/) | [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) | [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  [![](https://img.shields.io/badge/AngelDiazMera-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelDiazMera/) | [![](https://img.shields.io/badge/Antonio152-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Antonio152/) | [![](https://img.shields.io/badge/rodrigocrz-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigocrz/) | [![](https://img.shields.io/badge/Estefaniavera-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Estefaniavera/) | [![](https://img.shields.io/badge/Ale5913-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ale5913/)
 </div>
 
 ## License
